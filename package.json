@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/LoliLin/TorrentManger/issues"
   },
-  "homepage": "https://github.com/LoliLin/TorrentManger#readme"
+  "homepage": "https://github.com/LoliLin/TorrentManger#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "split-file-stream": "^1.3.0",
+    "urlencode": "^1.1.0",
+    "util": "^0.12.1"
+  }
 }
