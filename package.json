@@ -1,0 +1,19 @@
+{
+  "name": "torrentmanger",
+  "version": "0.0.0",
+  "description": "☁️ Automatically download & upload torrents to OneDrive",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliLin/TorrentManger.git"
+  },
+  "author": "XiaoLin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoliLin/TorrentManger/issues"
+  },
+  "homepage": "https://github.com/LoliLin/TorrentManger#readme"
+}
